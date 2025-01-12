@@ -30,16 +30,17 @@ The following files and directories are ignored and not included in version cont
 
 
 2. add faces jpg in faces/base
-```bash 
+   ```bash 
     python encode.py
 
-
-2.  
-```bash
+3. Run the requirements file to download important dependencies
+   ```bash
     pip install -r requirements.txt
 
-3. ```bash 
+4. run voilence detection
+   ```bash 
     python voilence-detection.py
 
-4. ```bash 
+5. run facial_recognition file
+   ```bash 
     python fin.py
