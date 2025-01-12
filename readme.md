@@ -1,6 +1,6 @@
 # Ragging Detection Project
 
-This project aims to detect violent behavior in videos using deep learning. It includes frame processing, violence detection, and face recognition functionalities.
+This project aims to detect ragging in videos using deep learning. It includes frame processing, ragging detection, and face recognition functionalities.
 
 ## Files and Directories
 
