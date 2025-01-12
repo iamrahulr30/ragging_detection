@@ -1,0 +1,32 @@
+# Ignoring Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignoring base face images
+/faces/base
+*.jpg
+
+# Ignoring processed face files
+/faces/processed_faces
+*.pkl
+
+# Ignoring processed ragging frames
+/proc_ragging_frames
+*.png
+
+# Ignoring processed violence frames
+/proc_violence_frames
+*.png
+
+# Ignoring ragging frames
+/ragging_frames
+*.png
+
+# Ignoring test directory and violence frames
+/test
+/violence_frames
+
+# Ignoring specific files
+detected_individuals.txt
+set_.docx
