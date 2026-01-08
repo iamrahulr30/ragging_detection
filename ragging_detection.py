@@ -15,7 +15,7 @@ os.makedirs(SAVE_DIR, exist_ok=True)
 # Load the pre-trained model
 model = tf.keras.models.load_model(
     'models/convlstm_model___Date_Time_2024_09_17__12_50_39___Loss_0.32116425037384033___Accuracy_0.8600000143051147.h5' ,  
-    # 'C:\Users\RAHUL\OneDrive\Desktop\proj\set_main\models\convlstm_model___Date_Time_2024_09_17__14_44_44___Loss_0.3518313765525818___Accuracy_0.871999979019165.h5',
+    # 'models/convlstm_model___Date_Time_2024_09_17__14_44_44___Loss_0.3518313765525818___Accuracy_0.871999979019165.h5',
 )
 
 # Suppress TensorFlow warnings
